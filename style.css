@@ -1,0 +1,94 @@
+
+
+.nav-item{
+    color: white;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.navbar{
+    background: rgb(64, 68, 100);
+    text-align: center;
+}
+
+p{
+    color: black;
+}
+
+.dropdown-menu {
+    width: 20px;
+    background-color: brown;
+
+}
+
+.dropdown {
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#ppbackground{
+    position: absolute;
+    top: 20%;
+
+    border: 2px solid grey;
+    width: 800px;
+    margin-left: 10px;
+    margin-right: 10px;
+    z-index: 200; /* brings to front/ moves to back */
+    background-color: grey;
+    opacity: 60%;
+
+}
+
+.slideimg{
+    width: 80%;
+    height: 650px;
+    text-align: center;
+    margin-left: 10%;
+}
+
+#pptitle{
+    font-size: 60px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+a:link {
+    /* unvisited link */
+    color: rgb(255, 255, 255);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(0, 0, 0);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(0, 0, 0);
+  }
+
+.hpcontent{
+    position: absolute;
+    left: 30%;
+    border: 2px solid black;
+    font-size: 22px;
+    text-align: justify;
+    margin-right: 1%;
+}
+
+#pergolesivideo{
+    margin-left: 1%;
+}
+
+#bg{
+    background-color: rgb(138, 162, 169);
+    font-size: 22px;
+}
+
+.feedbackcircle{
+    border-radius: 50%;
+}
+
